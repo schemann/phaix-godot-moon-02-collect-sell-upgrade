@@ -23,9 +23,13 @@ that step. The project's main scene is the final step.
 
 ## Controls
 
-WASD or arrow keys or the left stick to walk, mouse or right stick to look, Space to jump,
-Esc gives the mouse back, a click captures it again. Further keys per tutorial are shown
-in the video and in the HUD.
+- W A S D or the arrow keys walk, and so does the left stick of a gamepad.
+- The mouse or the right stick looks around.
+- Space or the A button jumps.
+- Esc gives the mouse back, and a left click captures it again.
+- Hold the left mouse button or the right trigger to brush the dust away.
+- E or the X button uses the machine within reach (3.5 m of its middle), and the line at the bottom of the screen says what it will do.
+- E works from `step_02_dustwell`.
 
 ## Tests
 
